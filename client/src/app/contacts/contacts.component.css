@@ -1,0 +1,12 @@
+.column{
+    padding-right:20px;
+    width:300px;
+}
+.headings{
+    display:flex; 
+    color:rgb(168, 154, 231);
+    padding:5px;
+    font-size:larger;
+    font-weight: bold;
+    text-decoration: underline;
+}
